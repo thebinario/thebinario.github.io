@@ -27,16 +27,30 @@ https://stream2.canais.info/a/hls/telecinecult.m3u8
 https://stream2.canais.info/a/hls/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine premium HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_b70dec1c2d5f8234f3a403e479f14459367e348f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",megapix HD
 https://stream2.canais.info/a/hls/megapix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",universal channel HD
 https://stream2.canais.info/a/hls/universalchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",maxprime HD
 https://stream2.canais.info/a/hls/maxprime.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",cinemax HD
 https://stream2.canais.info/a/hls/cinemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",max HD
 https://stream2.canais.info/a/hls/max.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",tnt HD
 https://stream2.canais.info/a/hls/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",fox HD
 https://stream2.canais.info/a/hls/fox.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",fox prime1 HD
 https://stream2.canais.info/a/hls/foxprime1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",fox prime2 HD
 https://stream2.canais.info/a/hls/foxprime2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",space HD
 https://stream2.canais.info/a/hls/space.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",fx HD
 https://stream2.canais.info/a/hls/fx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",syfy HD
 https://stream2.canais.info/a/hls/syfy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",max HD
 https://stream2.canais.info/a/hls/max.m3u8

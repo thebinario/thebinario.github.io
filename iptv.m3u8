@@ -3,12 +3,14 @@
 https://stream2.canais.info/a/hls/animalplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel
 https://stream2.canais.info/a/hls/discovery.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo HD1
 https://stream2.canais.info/a/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo HD2
 https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_703fcad5787d6dcf7bf26802cc2220f50f63df5c/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2
 https://stream2.canais.info/a/hls/hbo2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine pipoca SD
 http://list.deeplist.nl:80/testeweb/abril70dias2/929
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine pipoca

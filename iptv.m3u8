@@ -4,7 +4,7 @@ https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_703fcad5787
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",animael planet
 https://stream2.canais.info/a/hls/animalplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel
-https://stream2.canais.info/a/hls/discoverychannel.m3u8
+https://stream2.canais.info/a/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo
 https://stream2.canais.info/a/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2
@@ -27,3 +27,16 @@ https://stream2.canais.info/a/hls/telecinecult.m3u8
 https://stream2.canais.info/a/hls/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine premium HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_b70dec1c2d5f8234f3a403e479f14459367e348f/playlist.m3u8
+https://stream2.canais.info/a/hls/megapix.m3u8
+https://stream2.canais.info/a/hls/universalchannel.m3u8
+https://stream2.canais.info/a/hls/maxprime.m3u8
+https://stream2.canais.info/a/hls/cinemax.m3u8
+https://stream2.canais.info/a/hls/max.m3u8
+https://stream2.canais.info/a/hls/tnt.m3u8
+https://stream2.canais.info/a/hls/fox.m3u8
+https://stream2.canais.info/a/hls/foxprime1.m3u8
+https://stream2.canais.info/a/hls/foxprime2.m3u8
+https://stream2.canais.info/a/hls/space.m3u8
+https://stream2.canais.info/a/hls/fx.m3u8
+https://stream2.canais.info/a/hls/syfy.m3u8
+https://stream2.canais.info/a/hls/max.m3u8

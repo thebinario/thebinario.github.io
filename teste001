@@ -1,14 +1,34 @@
 #EXTM3U8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",animael planet SD
+https://origin.topcanais.com/live/animalplanetsd/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",animael planet
+https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanet/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",animael planet HD1
 https://stream2.canais.info/a/hls/animalplanet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",animael planet HD2
+https://origin.topcanais.com/live/animalplanethd/video.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel sd1
+ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel sd2
+https://origin.topcanais.com/mylive/discoverysd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel HD1
 https://stream2.canais.info/a/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel HD2
+https://origin.topcanais.com/live/discoveryhd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel HD3
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo HD1
 https://stream2.canais.info/a/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo HD2
 https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_703fcad5787d6dcf7bf26802cc2220f50f63df5c/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2 sd
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2sd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2 HD1
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2 HD2
 https://stream2.canais.info/a/hls/hbo2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine pipoca SD

@@ -1,11 +1,13 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",1
 https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_703fcad5787d6dcf7bf26802cc2220f50f63df5c/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",animael planet
 https://stream2.canais.info/a/hls/animalplanet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",3
-https://stream2.canais.info/a/hls/animalplanet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",4
-https://stream2.canais.info/a/hls/animalplanet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",discovery channel
+https://stream2.canais.info/a/hls/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo
+https://stream2.canais.info/a/hls/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",hbo2
+https://stream2.canais.info/a/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",5
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_184b727e7bc9a9f345824a453557829bea4a8965/playlist.m3u8

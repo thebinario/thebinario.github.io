@@ -11,6 +11,8 @@ https://stream2.canais.info/a/hls/hbo.m3u8
 https://stream2.canais.info/a/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine pipoca
 https://stream2.canais.info/a/hls/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine pipoca HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_2b62eaca3d1d3eca93e445500e14013c2ef7432a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine fun
 https://stream2.canais.info/a/hls/telecinefun.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine touch
@@ -21,3 +23,5 @@ https://stream2.canais.info/a/hls/telecineaction.m3u8
 https://stream2.canais.info/a/hls/telecinecult.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine premium
 https://stream2.canais.info/a/hls/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",telecine premium HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_b70dec1c2d5f8234f3a403e479f14459367e348f/playlist.m3u8

@@ -1,20 +1,21 @@
 <html>
   <head>
-    <script>
-    function verificar() {
-      if(form1.user.value ="mente" && form1.pass.value == "binaria"){
-          alert("Você entrou!");
-         };
-       }
+    <script language=javascript type="text/javascript">
+      function verificar() {
+        if(form1.user.value ="mente" && form1.pass.value == "binaria"){
+            alert("Você entrou!");
+           };
+         }
     </script>
   </head>
   <body>
     <form name="form1"method="GET">
       <label>Nome:</label>
       <input type="text" name="user">
+      </br>
       <label>Senha:</label>
       <input type="password" name="pass">
-      <inputvalue="Entrar" onClick="verificar()">
+      <input type="submit" value="Entrar" onClick="verificar()">
     </form>
   </body>
 </html>
